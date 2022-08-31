@@ -1,0 +1,19 @@
+[
+    {
+        "clientRoleMappings": [
+            {
+                "clientId": "account",
+                "clientRoles": [
+                    "view-applications",
+                    "view-profile",
+                    "manage-consent",
+                    "manage-account-links",
+                    "view-consent",
+                    "delete-account",
+                    "manage-account"
+                ]
+            }
+        ],
+        "username": "service-account-client"
+    }
+]
